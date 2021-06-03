@@ -1,6 +1,5 @@
 import React from 'react'
-import styles from './styles.module.css'
+import ForLoop from './ForLoop'
+import { IfMultiCondition, IfCondition, IfElseCondition, ElseIfCondition, ElseCondition } from './IfConditions';
 
-export const ExampleComponent = ({ text }) => {
-  return <div className={styles.test}>Example Component: {text}</div>
-}
+export { ForLoop, IfMultiCondition, IfCondition, IfElseCondition, ElseIfCondition, ElseCondition };
