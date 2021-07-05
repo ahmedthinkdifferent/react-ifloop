@@ -1,7 +1,7 @@
 {
   "name": "react-ifloop",
-  "version": "1.0.0",
-  "description": "conditional &amp; loop components",
+  "version": "1.0.1",
+  "description": "React Declarative [IF Conditions , Loop] Statements",
   "author": "ahmedthinkdifferent",
   "license": "MIT",
   "repository": "ahmedthinkdifferent/react-ifloop",
